@@ -68,12 +68,12 @@ Here are some of the recent projects I've worked on. Feel free to explore them!
 
 Here are some highlighted GitHub repositories where I showcase my projects:
 
-- [Arduino](https://github.com/yourusername/Arduino) - Collection of Arduino IoT projects
-- [Bangle.js Heart Monitoring App](https://github.com/yourusername/Bangle.js-Heart-Monitoring-App) - Heart monitoring app using Bangle.js
-- [ByteCo](https://github.com/yourusername/ByteCo) - E-commerce mobile app for Mobile Computing 201
-- [DUT Tutoring Apps](https://github.com/yourusername/DUT-Tutoring-Apps) - Apps developed during my tutoring sessions at DUT
+- [Arduino](https://github.com/NiqueWrld/Arduino) - Collection of Arduino IoT projects
+- [Bangle.js Heart Monitoring App](https://github.com/NiqueWrld/Bangle.js-Heart-Monitoring-App) - Heart monitoring app using Bangle.js
+- [ByteCo](https://github.com/NiqueWrld/ByteCo) - E-commerce mobile app for Mobile Computing 201
+- [DUT Tutoring Apps](https://github.com/NiqueWrld/DUT-Tutoring-Apps) - Apps developed during my tutoring sessions at DUT
 
-And many more in my [GitHub profile](https://github.com/yourusername)!
+And many more in my [GitHub profile](https://github.com/NiqueWrld?tab=repositories)!
 
 ---
 
