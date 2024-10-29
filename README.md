@@ -86,8 +86,8 @@ I'm always open to collaborations and discussions! Let's create something amazin
 
 ### Social Media
 
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
-- [Facebook](https://www.facebook.com/yourfacebook)
+- [LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/siyathokoza-malunga-b9535029b/))
+- [Facebook](https://www.facebook.com/theofficialmacnique/)
 
 ---
 
