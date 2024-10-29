@@ -6,7 +6,7 @@ Here's a template for your GitHub profile README based on the details you've pro
 
 I'm a versatile **Developer** and **IoT Innovator** based in Durban, South Africa. Passionate about learning and staying on the cutting edge of technology, I aim to bring impactful tech innovations to South Africa!
 
-![My Profile Image](https://your-banner-url.com)
+![My Profile Image](https://niquewrld.github.io/Portfolio/images/hero-pic.png)
 
 ---
 
