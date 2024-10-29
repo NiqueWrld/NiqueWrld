@@ -84,16 +84,16 @@ I'm always open to collaborations and discussions! Let's create something amazin
 - **Email**: [siyathokoza321@gmail.com](mailto:siyathokoza321@gmail.com)
 - **Phone**: +27 65 526 8082
 
+Here’s the updated version with the corrected links:
+
+---
+
 ### Social Media
 
-- [LinkedIn]([https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/siyathokoza-malunga-b9535029b/))
+- [LinkedIn](https://www.linkedin.com/in/siyathokoza-malunga-b9535029b/)
 - [Facebook](https://www.facebook.com/theofficialmacnique/)
 
 ---
 
-**© NiqueWrld 2019**  
-*Design by NiqueWrld*
-
+**© NiqueWrld 2024**
 ---
-
-This README will give a professional overview of your skills and projects while encouraging others to connect and collaborate with you! Just replace placeholders with the correct links and images where necessary.
