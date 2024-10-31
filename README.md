@@ -1,7 +1,3 @@
-Here's a template for your GitHub profile README based on the details you've provided:
-
----
-
 # 👋 Hello, I'm Siyathokoza Malunga
 
 I'm a versatile **Developer** and **IoT Innovator** based in Durban, South Africa. Passionate about learning and staying on the cutting edge of technology, I aim to bring impactful tech innovations to South Africa!
