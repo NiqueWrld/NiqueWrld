@@ -80,8 +80,6 @@ I'm always open to collaborations and discussions! Let's create something amazin
 - **Email**: [siyathokoza321@gmail.com](mailto:siyathokoza321@gmail.com)
 - **Phone**: +27 65 526 8082
 
-Here’s the updated version with the corrected links:
-
 ---
 
 ### Social Media
