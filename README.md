@@ -3,7 +3,7 @@
 # 👋 Hello, I'm **Siyathokoza Malunga**  
 I'm a versatile **Developer** and **IoT Innovator** from Durban, South Africa. Passionate about cutting-edge technology, I aim to bring impactful innovations to South Africa!  
 
-![Profile Image](https://niquewrld.github.io/Portfolio/images/hero-pic.png)  
+![Profile Image](/image.png)  
 
 ---
 
