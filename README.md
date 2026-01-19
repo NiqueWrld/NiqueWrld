@@ -151,6 +151,7 @@ I'm open to collaborations and discussions. Let’s connect!
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niquewrld" alt="niquewrld" />
 </p>  
 
-**© NiqueWrld 2026**  
+**© NiqueWrld 2026 — All Rights Reserved**  
+*Unauthorized copying, forking, or distribution of this profile is prohibited.*
 
 ---  
