@@ -1,11 +1,9 @@
----
-
 # 👋 Hello, I'm **Siyathokoza Malunga**  
 **Self-Taught Developer** | **Founder @ NiqueWrld** | Durban, South Africa 🇿🇦  
 
 Building innovative software solutions across **AI**, **Mobile**, **Web**, **IoT**, and **Game Development**.
 
-<img src="image.png" alt="Siyathokoza Malunga" width="300" align="right"/>
+<img src="https://raw.githubusercontent.com/NiqueWrld/NiqueWrld/main/image.png" alt="Siyathokoza Malunga" width="300" align="right"/>
 
 ---
 
